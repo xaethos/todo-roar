@@ -10,6 +10,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 
+gem 'haml'
 gem 'roar-rails'
 
 group :development, :test do
